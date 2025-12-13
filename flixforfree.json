@@ -1,0 +1,123 @@
+{
+    "items": [
+        {
+            "type": "plugin",
+            "title": "Halloween 2025",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qoVr-L5SjT7RZkteSQi8m-v",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Adventure Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qpFXWUkxH5xafOl0GdTFpW1",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Romance Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qod9Q0X-Mm-lZ9xmDazV9Ca",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Fan Favorite Films",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qp26AZ7NU6VG5svvhOasAt4",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Conspiracy Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qr3HhraeejLzaWO298cmEad",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "UFOs",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qqCvhLEFFcFz7Z-DY0fjuEP",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Latest Releases",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qpi-ZouuHThrSuszH0XDcmR",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Creature Feature",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qro0HaCZuEIQiG2mcaVC6HU",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Thriller Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qpQuWssb12O1041U5_k43S5",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Comedy Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qp6cD2PCv09B-RZjzqqPuMC",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Horror Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qpQlUAktO5uMP9J4Twul68e",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "LGBTQ+ Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qrjqNkgwq59kK3RSlabT8KO",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Drama Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qrl0hUciVU2ZumrZbBFX6j4",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Documentaries",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qpPOGymeUVh7I9nI_Luu5Td",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Action Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qrej33FcxveI6kAH3DbEEqm",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Sci Fi Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qrsm7zaoScpeiMGXoki355a",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Full Movies",
+            "link": "plugin.video.youtube/playlist/PLcYV_ubyF5qr-1MTHBKMmnYitU3l4eEVv",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        }
+    ]
+}

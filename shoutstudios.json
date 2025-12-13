@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "type": "plugin",
+            "title": "B&W / Film Noir ",
+            "link": "plugin.video.youtube/playlist/PLBrrfZs-ew7OnCa7SYZn1-UnG6KFvaoqk",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Scary Horror Thrillers",
+            "link": "plugin.video.youtube/playlist/PLBrrfZs-ew7OtA2-anb4gq3_zTmhB-Z92",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Comedy",
+            "link": "plugin.video.youtube/playlist/PLBrrfZs-ew7MANz692xM00EUxkUJlHzZr",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Action",
+            "link": "plugin.video.youtube/playlist/PLBrrfZs-ew7PDeUmZnKLErFZF-_wyeDn4",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Documentaries",
+            "link": "plugin.video.youtube/playlist/PLBrrfZs-ew7OT_ZkTbcH86gwRT9ihjyub",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "For Families",
+            "link": "plugin.video.youtube/playlist/PLBrrfZs-ew7MgbMFjssFpbXLXWBDY5kko",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Godzilla Universe",
+            "link": "plugin.video.youtube/playlist/PLBrrfZs-ew7PXwD-ZGhm1oRczJqHobnAo",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Misc.",
+            "link": "plugin.video.youtube/playlist/PLBrrfZs-ew7Pk7PPMeAEOCcCdW_Lqo3HX",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        }
+    ]
+}

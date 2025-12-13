@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "type": "plugin",
+            "title": "Movies for the evening",
+            "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BMTs8UFyFuuKvIdlUovSS7a",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Family films and comedies",
+            "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BNoq64yOrawuacg1xQCLY8V",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Movies Dramas",
+            "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BMBOdG7CDpSXRt_DDodvCFK",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Fantasy films",
+            "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BNKNJq_8CyWMpTEj_m05Uq4",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Horror films",
+            "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BP0rZ4W6rAZQ2YLgC0Wz4G_",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Movies Thriller",
+            "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BMPf2gsPmBfRM68l6mFD8VZ",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Action films",
+            "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BOwK4cuJr-WpFQwC8IQb_ar",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Adventure films",
+            "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BNsx9LoXY4nuKy2gfyaTnAa",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        }
+    ]
+}

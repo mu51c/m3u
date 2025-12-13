@@ -22,6 +22,34 @@
             "fanart": "https://name.png?raw=true"
         },
         {
+            "type": "dir",
+            "title": "Shout Studios",
+            "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/shoutstudios.json",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "dir",
+            "title": "Plushollywood Movies",
+            "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/plushollywood.json",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "dir",
+            "title": "Epic Movie Nexus",
+            "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/epicmovienexus.json",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "dir",
+            "title": "Flix For Free",
+            "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/flixforfree.json",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
             "type": "plugin",
             "title": "Strange Lass",
             "link": "plugin.video.youtube/playlist/PL1VQG1QhVNxXsfBysWk3qMPQJOuzCC9Vw",
