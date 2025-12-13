@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "type": "dir",
+            "type": "plugin",
             "title": "Movies",
             "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/dm_movies.json",
             "thumbnail": "https://name.jpg",
