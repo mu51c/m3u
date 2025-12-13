@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "type": "dir",
+            "title": "Movies",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/dm_movies.json",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "dir",
+            "title": "TvShows",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/dm_tvshows.json",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "dir",
+            "title": "Music",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/dm_music.json",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        },
+        {
+            "type": "plugin",
+            "title": "Strange Lass",
+            "link": "plugin.video.youtube/playlist/PL1VQG1QhVNxXsfBysWk3qMPQJOuzCC9Vw",
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
+        }
+    ]
+}
