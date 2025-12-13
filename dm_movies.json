@@ -4,57 +4,57 @@
             "type": "plugin",
             "title": "4,000 and still counting Movies Channel",
             "link": "plugin.video.youtube/playlist/PL30RAv-0lkxHdTcoGGgx5L6eXIHnnrEHC",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "special://home/addons/plugin.video.dreammachine/resources/media/utube.png",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image6.jpg"
         },
         {
             "type": "dir",
             "title": "Movie Central",
             "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/moviecentral.json",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/DqjmaZmMUZSGM7i-ehcgpyF-Bv0mrOQsvjh0FLM3oHrdk04YOPLNMLnsNA6ZPLqEY5uZqoFfEC8=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image7.jpg"
         },
         {
             "type": "dir",
             "title": "Romance Movie Central",
             "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/romancemoviecentral.json",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/ZqVtsoKsanNEpUySFgjbwpQLi4OP9LMmuDNKKRmKL6T4teSLgfqgcRDD3DNBnnlFNAvD3Qly=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image8.jpg"
         },
         {
             "type": "dir",
             "title": "Shout Studios",
             "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/shoutstudios.json",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/jumNzIVqGA4mtzfHR46w3iVEWxVQ-2JUOaRrLW4IH_ysiTmtfBsbFc81y-Sq96pKRsuNBfj9VuY=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image9.jpg"
         },
         {
             "type": "dir",
             "title": "Plushollywood Movies",
             "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/plushollywood.json",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/VLNRSyaYUpoGh0AiGX2Nt-cEMHa7bkinXp9HN4ovf9ml9aQx--L-QCgIymyTFQTJlwXZYjV7=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image10.jpg"
         },
         {
             "type": "dir",
             "title": "Epic Movie Nexus",
             "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/epicmovienexus.json",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/GDE1I_vXfK-7-fIK-54c4y-75bGm0ixP6BYN9Dgg4ZhleoiJOz3sjm88qIQr9nOLISsXs1KMTvQ=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image11.jpg"
         },
         {
             "type": "dir",
             "title": "Flix For Free",
             "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/flixforfree.json",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/3XnLa2q1UI_JUVoztg9AIzY71JpcnW1OK71WGWVlyaQbK119gW3oR0lnjz5bi67v7hFCYA0YYg=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image12.jpg"
         },
         {
             "type": "plugin",
             "title": "Strange Lass",
             "link": "plugin.video.youtube/playlist/PL1VQG1QhVNxXsfBysWk3qMPQJOuzCC9Vw",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "special://home/addons/plugin.video.dreammachine/resources/media/utube.png",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image13.jpg"
         }
     ]
 }
