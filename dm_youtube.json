@@ -10,23 +10,23 @@
         {
             "type": "dir",
             "title": "TvShows",
+            "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/dm_tvshows.json",
             "thumbnail": "special://home/addons/plugin.video.dreammachine/resources/media/utube.png",
             "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image2.jpg"
-            "fanart": "https://name.png?raw=true"
         },
         {
             "type": "dir",
             "title": "Music",
+            "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/dm_music.json",
             "thumbnail": "special://home/addons/plugin.video.dreammachine/resources/media/utube.png",
             "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image3.jpg"
-            "fanart": "https://name.png?raw=true"
         },
         {
             "type": "plugin",
             "title": "New",
             "link": "plugin.video.youtube/playlist/PL1VQG1QhVNxXsfBysWk3qMPQJOuzCC9Vw",
-            "thumbnail": "special://home/addons/plugin.video.dreammachine/resources/media/utube.png",
-            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image1.jpg"
+            "thumbnail": "https://name.jpg",
+            "fanart": "https://name.png?raw=true"
         }
     ]
 }
