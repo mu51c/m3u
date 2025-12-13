@@ -5,7 +5,7 @@
             "title": "Movies",
             "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/dm_movies.json",
             "thumbnail": "special://home/addons/plugin.video.dreammachine/resources/media/utube.png",
-            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image1.jpg?raw=true"
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image1.jpg"
         },
         {
             "type": "dir",
