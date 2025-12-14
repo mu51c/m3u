@@ -4,57 +4,57 @@
             "type": "plugin",
             "title": "Movies for the evening",
             "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BMTs8UFyFuuKvIdlUovSS7a",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/VLNRSyaYUpoGh0AiGX2Nt-cEMHa7bkinXp9HN4ovf9ml9aQx--L-QCgIymyTFQTJlwXZYjV7=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image6.jpg"
         },
         {
             "type": "plugin",
             "title": "Family films and comedies",
             "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BNoq64yOrawuacg1xQCLY8V",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/VLNRSyaYUpoGh0AiGX2Nt-cEMHa7bkinXp9HN4ovf9ml9aQx--L-QCgIymyTFQTJlwXZYjV7=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image7.jpg"
         },
         {
             "type": "plugin",
             "title": "Movies Dramas",
             "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BMBOdG7CDpSXRt_DDodvCFK",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/VLNRSyaYUpoGh0AiGX2Nt-cEMHa7bkinXp9HN4ovf9ml9aQx--L-QCgIymyTFQTJlwXZYjV7=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image8.jpg"
         },
         {
             "type": "plugin",
             "title": "Fantasy films",
             "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BNKNJq_8CyWMpTEj_m05Uq4",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/VLNRSyaYUpoGh0AiGX2Nt-cEMHa7bkinXp9HN4ovf9ml9aQx--L-QCgIymyTFQTJlwXZYjV7=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image9.jpg"
         },
         {
             "type": "plugin",
             "title": "Horror films",
             "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BP0rZ4W6rAZQ2YLgC0Wz4G_",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/VLNRSyaYUpoGh0AiGX2Nt-cEMHa7bkinXp9HN4ovf9ml9aQx--L-QCgIymyTFQTJlwXZYjV7=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image10.jpg"
         },
         {
             "type": "plugin",
             "title": "Movies Thriller",
             "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BMPf2gsPmBfRM68l6mFD8VZ",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/VLNRSyaYUpoGh0AiGX2Nt-cEMHa7bkinXp9HN4ovf9ml9aQx--L-QCgIymyTFQTJlwXZYjV7=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image11.jpg"
         },
         {
             "type": "plugin",
             "title": "Action films",
             "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BOwK4cuJr-WpFQwC8IQb_ar",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/VLNRSyaYUpoGh0AiGX2Nt-cEMHa7bkinXp9HN4ovf9ml9aQx--L-QCgIymyTFQTJlwXZYjV7=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image12.jpg"
         },
         {
             "type": "plugin",
             "title": "Adventure films",
             "link": "plugin.video.youtube/playlist/PLZj7rDrnJ6BNsx9LoXY4nuKy2gfyaTnAa",
-            "thumbnail": "https://name.jpg",
-            "fanart": "https://name.png?raw=true"
+            "thumbnail": "https://yt3.ggpht.com/VLNRSyaYUpoGh0AiGX2Nt-cEMHa7bkinXp9HN4ovf9ml9aQx--L-QCgIymyTFQTJlwXZYjV7=s176-c-k-c0x00ffffff-no-rj-mo",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image13.jpg"
         }
     ]
 }
