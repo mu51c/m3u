@@ -6,13 +6,6 @@
             "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/redlist.json",
             "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_nfYLKkaYJ5uFAJwPFS42eZNmXG6AAfBjrlYilFM25kkhw=s176-c-k-c0x00ffffff-no-rj-mo",
             "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image6.jpg"
-        },
-        {
-            "type": "dir",
-            "title": "NAME",
-            "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/NAME.json",
-            "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_nfYLKkaYJ5uFAJwPFS42eZNmXG6AAfBjrlYilFM25kkhw=s176-c-k-c0x00ffffff-no-rj-mo",
-            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image7.jpg"
         }
     ]
 }
