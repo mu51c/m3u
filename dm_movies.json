@@ -48,13 +48,6 @@
             "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/flixforfree.json",
             "thumbnail": "https://yt3.ggpht.com/3XnLa2q1UI_JUVoztg9AIzY71JpcnW1OK71WGWVlyaQbK119gW3oR0lnjz5bi67v7hFCYA0YYg=s176-c-k-c0x00ffffff-no-rj-mo",
             "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image12.jpg"
-        },
-        {
-            "type": "plugin",
-            "title": "Strange Lass",
-            "link": "plugin.video.youtube/playlist/PL1VQG1QhVNxXsfBysWk3qMPQJOuzCC9Vw",
-            "thumbnail": "special://home/addons/plugin.video.dreammachine/resources/media/utube.png",
-            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image13.jpg"
         }
     ]
 }

@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+            "type": "dir",
+            "title": "Name",
+            "link": "https://raw.githubusercontent.com/mu51c/m3u/refs/heads/main/",
+            "thumbnail": "special://home/addons/plugin.video.dreammachine/resources/media/utube.png",
+            "fanart": "special://home/addons/plugin.video.dreammachine/resources/media/image1.jpg"
+        }
+    ]
+}
